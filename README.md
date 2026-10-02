@@ -19,4 +19,6 @@ These are the two matching SHA-256 hashes
 ## Exercise 8- Recognizing a Port Scan
 The SYN result indicates a scan because they show multiple SYN packets sent to different ports.
 
+![Exercise 8 SYN Scan](Exercise8_SYN_Scan.png)
+
 
