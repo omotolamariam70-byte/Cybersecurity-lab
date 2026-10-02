@@ -10,5 +10,8 @@ Used Wireshark's Follow HTTP Stream feature to view the communication between a 
 ![Exercise 4 Screenshot](Exercise_HTTP_Stream_NEW.png)
 
 
+## Exercise 7- Exporting Objects (Extracting a File)
+These are the two matching SHA-256 hashes
+
 
 
