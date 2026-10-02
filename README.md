@@ -7,6 +7,7 @@ Exercise 3 screenshot:
 
 ## Exercise 4 — Follow HTTP Stream
 Used Wireshark's Follow HTTP Stream feature to view the communication between a client and a server. Credentials shown are for lab use only.
+![Exercise 4 Screenshot](Exercise_HTTP_Stream_NEW.png)
 
 
 
