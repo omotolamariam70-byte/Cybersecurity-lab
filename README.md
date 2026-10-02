@@ -15,6 +15,7 @@ These are the two matching SHA-256 hashes
 
 ![Exercise 7 SHA-256 Hashes](Exercise7_SHA256_Hashes.png)
 
-
+## Exercise 8- Recognizing a Port Scan
+The SYN result indicates a scan because they show multiple SYN packets sent to different ports.
 
 
